@@ -1,0 +1,18 @@
+main {
+    background-color: blue;
+    padding: 50px 100px;
+}
+
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.img {
+    align-content: center;
+    opacity: .4;
+    height: 250px;
+}
